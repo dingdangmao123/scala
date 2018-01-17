@@ -3,7 +3,7 @@ I just store some simple examples to record the process of studying scala
 
 ## DSL 
 
- a simple scala DSL code to calculate  different current expression
+ This section is a simple scala DSL code to calculate  different current expression. 
  I think scala is the most powerful tool to program internal DSL because scala has implicit convertion that means you can use
  simple code to achieve your goal
  
