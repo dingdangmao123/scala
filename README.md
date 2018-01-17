@@ -5,10 +5,10 @@ I just store some simple examples to record the process of studying scala
 
  a simple scala DSL code to calculate  different current expression
  
- - US，POU,RMB, the currency you define
+ - `US`,`POU`,`RMB`, the currency you define
  - `>` the result will be convert to the kind of currency
- - -> return the result
- - you can use "|" or "()" to use the currency
+ - `->` return the result
+ - you can use `|` or `()` to use the currency
  
  ```scala   
      5(US)*5 + 3 (POU)/2 - 2 (RMB) > RMB
