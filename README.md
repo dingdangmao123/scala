@@ -1,0 +1,2 @@
+# scala
+some scala examples
