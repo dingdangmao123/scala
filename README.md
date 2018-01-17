@@ -6,7 +6,7 @@ I just store some simple examples to record the process of studying scala
  a simple scala DSL code to calculate  different current expression
  
  - US，POU,RMB, the currency you define
- - > the result will be convert to the kind of currency
+ - `>` the result will be convert to the kind of currency
  - -> return the result
  - you can use "|" or "()" to use the currency
  
