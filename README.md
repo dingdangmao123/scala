@@ -20,6 +20,26 @@ I just store some simple examples to record the process of studying scala
      (5 | US)*10 + 3 (EUR) -> RMB 
  ```
 
-## Updating....
+## Json
+
+A very simple code to parse json 
+
+```scala
+        var js=
+            """{
+         "student":{
+         "name":"ZY",
+         "address":{
+         "country":"China",
+         "city": "FZ"
+         }, "data":[
+         160,
+         85]
+          }}
+            """
+```
+
+the result : Map("student" -> Map("name" -> "ZY", "address" -> Map("country" -> "China", "city" -> "FZ"), "data" -> Set(160, 85)))
+
 
 
